@@ -9,8 +9,3 @@ cd /home/jovyan/work
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 git clone https://github.com/daliagachc/NeGI-hyytiala.git
-
-pip install netcdf4
-conda create --name pynio_env --channel conda-forge pynio
-  source activate pynio_env
-
