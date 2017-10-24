@@ -8,7 +8,7 @@ cd /home/jovyan/work
 # even if you're only cloning
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
-git clone https://github.com/csc-training/spark-sql.git
+git clone https://github.com/daliagachc/NeGI-hyytiala.git
 
 pip install netcdf4
 conda create --name pynio_env --channel conda-forge pynio
