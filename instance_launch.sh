@@ -9,3 +9,6 @@ cd /home/jovyan/work
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 git clone https://github.com/daliagachc/NeGI-hyytiala.git
+
+conda install bokeh
+conda install basemap
