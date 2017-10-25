@@ -11,3 +11,5 @@ Please create an account at
 https://b2drop.eudat.eu/login
 You will be invited to the folder for the course. 
 
+other databases using OPeNDAP 
+https://disc.gsfc.nasa.gov/information/tools?title=OPeNDAP%20and%20GDS
