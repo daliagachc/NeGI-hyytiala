@@ -30,3 +30,6 @@ https://github.com/richard-olav/ebas-data-retrieval-session/blob/master/all_urls
 
 I'm trying to collect all presented slides at this eudat.eu folder (/NeGi-hyytiala/Resources/Slides)
 https://b2drop.eudat.eu/s/VhZn9lhewArlkWe
+
+Smear API Notebook example presented by Timo
+https://b2drop.eudat.eu/s/TwgthXXH6ULJRO2 (/NeGi-hyytiala/Resources/Slides/Wednesday)
