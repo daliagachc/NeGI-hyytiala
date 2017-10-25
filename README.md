@@ -26,3 +26,7 @@ https://github.com/richard-olav/ebas-data-retrieval-session
 
 Here is the list from Richard with the EBAS data files:
 https://github.com/richard-olav/ebas-data-retrieval-session/blob/master/all_urls_zeppelin.txt
+
+
+I'm trying to collect all presented slides at this eudat.eu folder (/NeGi-hyytiala/Resources/Slides)
+https://b2drop.eudat.eu/s/VhZn9lhewArlkWe
