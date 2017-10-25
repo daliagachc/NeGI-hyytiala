@@ -19,3 +19,6 @@ http://www.rasdaman.org/
 
 api docs for avaa api 
 https://avoin-test.csc.fi/web/smart/smear/api
+
+Richard's repository
+https://github.com/richard-olav/ebas-data-retrieval-session
