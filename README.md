@@ -22,3 +22,7 @@ https://avoin-test.csc.fi/web/smart/smear/api
 
 Richard's repository
 https://github.com/richard-olav/ebas-data-retrieval-session
+
+
+Here is the list from Richard with the EBAS data files:
+https://github.com/richard-olav/ebas-data-retrieval-session/blob/master/all_urls_zeppelin.txt
