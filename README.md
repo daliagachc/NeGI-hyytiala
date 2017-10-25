@@ -16,3 +16,6 @@ https://disc.gsfc.nasa.gov/information/tools?title=OPeNDAP%20and%20GDS
 
 example on multidimensional database
 http://www.rasdaman.org/
+
+api docs for avaa api 
+https://avoin-test.csc.fi/web/smart/smear/api
