@@ -34,4 +34,4 @@ https://b2drop.eudat.eu/s/VhZn9lhewArlkWe
 Smear API Notebook example presented by Timo
 https://b2drop.eudat.eu/s/TwgthXXH6ULJRO2 (/NeGi-hyytiala/Resources/Slides/Wednesday)
 
-Send mea an email (diego.aliaga at helsinki.fi) if you can't access the b2drop shared folder. 
+Send me an email (diego.aliaga at helsinki.fi) if you can't access the b2drop shared folder. 
