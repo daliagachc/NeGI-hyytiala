@@ -16,7 +16,7 @@ def solve_little_big_endian_prob_in_df(df_list):
 				df_list[i][col]=df_list[i][col].astype('f8')
 
 #example:
-# define a list with the dataframe that you want to be fixed
+# define a list with the dataframes that you want to be fixed
 #   df_list[df1,df2,...]
 #run the funct on the list
 #   solve_little_big_endian_prob_in_df(df_list)
