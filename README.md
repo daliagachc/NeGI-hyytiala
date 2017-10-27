@@ -35,3 +35,7 @@ Smear API Notebook example presented by Timo
 https://b2drop.eudat.eu/s/TwgthXXH6ULJRO2 (/NeGi-hyytiala/Resources/Slides/Wednesday)
 
 Send me an email (diego.aliaga at helsinki.fi) if you can't access the b2drop shared folder. 
+
+if you have the cryptic error regarding big endian little endian when merging dataframes 
+you can use this function to fix it
+  https://github.com/daliagachc/NeGI-hyytiala/blob/master/snippets/solve_little_big_endian_prob_in_df.py
